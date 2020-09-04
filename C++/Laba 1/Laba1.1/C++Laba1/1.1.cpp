@@ -1,27 +1,30 @@
 ﻿//Вариант 7, задание №1, Кунов Никита
-#include <iostream>
 #include <ctime>
+#include <clocale>
+#include <stdlib.h>
+#include <stdio.h>
+
 using namespace std;
 
 int processArray(float n[],int len, float arr[],float min_rnd, float max_rnd)
 {
 #pragma region Присовим значения массива от 20.0 до 100.0
     setlocale(LC_ALL, "ru"); 
-    srand(time(NULL)); // для того, чтобы рандом был разным
+    srand(time(0)); // для того, чтобы рандом был разным
     float interval = max_rnd - min_rnd;
     for (int i = 0; i < len; i++)  
     {
         n[i] = min_rnd + (rand() % (int)interval); // мин. граница рандом для сдвига отсчёта + рандомное число на интервале 
-        printf("%d ",(int)n[i]);
+        printf("%g ",n[i]);
     }
 #pragma endregion
 
 #pragma region Нахождение минимального элемента массива
-    float min_elem = NULL;
+    float min_elem = 0;
 
     for (int i = 0; i < len; i++)
     {
-        if (min_elem == NULL || min_elem > n[i])
+        if (min_elem == 0 || min_elem > n[i])
         {
             min_elem = n[i];
         }
@@ -34,7 +37,7 @@ int processArray(float n[],int len, float arr[],float min_rnd, float max_rnd)
     for (int i = 0; i < len; i++)
     {
         arr[i] = n[i] - min_elem;
-        printf("%d ",(int)arr[i]);
+        printf("%g ",arr[i]);
     }
     printf("\n");
 #pragma endregion
@@ -51,7 +54,7 @@ int processArray(float n[],int len, float arr[],float min_rnd, float max_rnd)
         {
             n[i] = min_elem;
         }
-        printf("%d ",(int)n[i]);
+        printf("%g ",n[i]);
     }
 #pragma endregion
 

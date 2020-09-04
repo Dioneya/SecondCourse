@@ -1,21 +1,21 @@
 ﻿
 #include <iostream>
+#include < iomanip >
 using namespace std;
 
 
+int Factorial(int i) 
+{
+	int num = 1;
+	for (int k = 1; k <= i; k++) {
+		num = num * k;
+	}
+	return num;
+}
+
 int SumOfFactorials(int i, int j)
 {
-	int first_num = 1;
-	for (int k = 1; k <= i; k++) {
-		first_num = first_num * k;
-	}
-	int second_num = 1;
-	for (int k = 1; k <= j; k++) {
-		second_num = second_num * k;
-	}
-
-	int res = first_num + second_num;
-	
+	int res = Factorial(i) + Factorial(j);
 	return res;
 }
 
@@ -37,7 +37,7 @@ void PrintArray(int **x, int n, int m)
 	{
 		for (int j = 0; j < m; j++)
 		{
-			cout << *(*(x + i) + j) << " ";
+			cout<<setw(8)<< *(*(x + i) + j);
 		}
 		cout<<endl;
 	}	
@@ -47,15 +47,7 @@ void PrintArray(int **x, int n, int m)
 void ProcessArray(int **x, int n, int m)
 {
 	int cnt = n;
-#pragma region Удалим ненужные строки из массива
-	
-	for (int i = 0; i < n; i += 2, cnt--)
-	{
-		delete[] * (x + i);
-	}
-#pragma endregion
 
-	
 	int *y = new int[cnt*m]; // выделим память одномерному массиву
 	int index = 0;
 	for (int i = 1; i < n; i+=2) 
@@ -66,6 +58,14 @@ void ProcessArray(int **x, int n, int m)
 			cout << *(y + index) << " ";
 		}
 		delete[] * (x + i); //подчищаем обработанную строку
+	}
+}
+
+void DeleteArray(int **arr, int rows) 
+{
+	for (int i = 0; i < rows; i += 2)
+	{
+		delete[] * (arr + i);
 	}
 }
 
@@ -84,5 +84,6 @@ int main()
 	InitializeArray(x, row, column);
 	PrintArray(x, row, column);
 	ProcessArray(x, row, column);
+	DeleteArray(x, 5);
 }
 
