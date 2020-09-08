@@ -44,7 +44,7 @@ void PrintArray(int **x, int n, int m)
 	cout << endl;
 }
 
-void ProcessArray(int **x, int n, int m)
+int* ProcessArray(int **x, int n, int m)
 {
 	int cnt = n;
 
@@ -57,16 +57,21 @@ void ProcessArray(int **x, int n, int m)
 			*(y+index) = *(*(x + i) + j);
 			cout << *(y + index) << " ";
 		}
-		delete[] * (x + i); //подчищаем обработанную строку
 	}
+	return y;
 }
 
-void DeleteArray(int **arr, int rows) 
+void DeleteDoubleArray(int **arr, int rows) 
 {
 	for (int i = 0; i < rows; i += 2)
 	{
 		delete[] * (arr + i);
 	}
+}
+
+void DeleteArray(int* y) 
+{
+	delete[] y;
 }
 
 int main()
@@ -83,7 +88,8 @@ int main()
 	
 	InitializeArray(x, row, column);
 	PrintArray(x, row, column);
-	ProcessArray(x, row, column);
-	DeleteArray(x, 5);
+	int* y = ProcessArray(x, row, column);
+	DeleteDoubleArray(x, 5);
+	DeleteArray(y);
 }
 
