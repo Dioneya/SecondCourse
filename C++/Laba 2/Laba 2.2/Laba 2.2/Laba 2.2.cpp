@@ -11,6 +11,10 @@ int main()
     Fraction second(3,6);
 
     Fraction sum = first+second;
+    Fraction mult = first * second;
+    Fraction dev = first / second;
+    Fraction dif = first - second;
     sum.reduce();
+
     printf("%d", Fraction::count);
 }

@@ -18,6 +18,10 @@ public:
 
     int getColumnLenght(); // получить кол. столбцов в массиве
 
+    int factorial(int);
+
+    int SumOfFactorials(int, int);
+
     void printMatrix();
 
     void operator++(); // версия префикс

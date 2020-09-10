@@ -4,15 +4,6 @@
 #include <fstream>
 #include "Stadium.h"
 
-void ImitateGame(Stadium &stad,int times) 
-{
-	int capacity = stad.get_capacity();
-	for (int i = 0; i < times; i++) 
-	{
-		stad.set_attendance((rand() % capacity));
-	}
-}
-
 void Sort(Stadium* stadiums, Stadium stad) // параметр Stadium* - отвечает за стадионы созданные кучей, Stadium - стэком
 {
 	Stadium stadium_array[3] = {stadiums[0], stadiums[1], stad };
@@ -50,9 +41,9 @@ int main()
 #pragma endregion
 
 #pragma region Имитации игр в стадионах
-	ImitateGame(stadiums[0], 4);
-	ImitateGame(stadiums[1], 4);
-	ImitateGame(stad3, 4);
+	stadiums[0].ImitateGame(4);
+	stadiums[1].ImitateGame(4);
+	stad3.ImitateGame(4);
 #pragma endregion
 
 	Sort(stadiums, stad3);

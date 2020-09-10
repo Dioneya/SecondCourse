@@ -1,5 +1,5 @@
 ﻿  Laba 2.3.cpp
-C:\Users\Никита\Source\Repos\Laba 2.3\Laba 2.3\Laba 2.3.cpp(43,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Никита\Documents\GitHub\SecondCourse\C++\Laba 2\Laba 2.3\Laba 2.3\Laba 2.3.cpp(34,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
   Stadium.cpp
   Создание кода...
-  Laba 2.3.vcxproj -> C:\Users\Никита\Source\Repos\Laba 2.3\Debug\Laba 2.3.exe
+  Laba 2.3.vcxproj -> C:\Users\Никита\Documents\GitHub\SecondCourse\C++\Laba 2\Laba 2.3\Debug\Laba 2.3.exe

@@ -45,5 +45,6 @@ public:
 	void deserialize(const string&); //чтение файла класса по указанному имени
 #pragma endregion
 
+	void ImitateGame(int); //имитация игр
 	void print_Stadium_info(); //вывод информации о стадионе в консоль
 };

@@ -11,11 +11,19 @@ Stadium::Stadium(string adr_stad, string club_stad, int sectors, int stad_capaci
 	set_Stadium(adr_stad, club_stad, sectors, stad_capacity);
 }
 
-
 Stadium::~Stadium()
 {
 }
 #pragma endregion
+
+void Stadium::ImitateGame(int times)
+{
+	int capacity = get_capacity();
+	for (int i = 0; i < times; i++)
+	{
+		set_attendance((rand() % capacity));
+	}
+}
 
 #pragma region Сэттеры
 void Stadium::set_Stadium(string adr_stad, string club_stad, int sectors, int stad_capacity)
