@@ -18,6 +18,8 @@ public:
 
     int getColumnLenght(); // получить кол. столбцов в массиве
 
+    int** getArr(); // получить целый массив
+
     int factorial(int);
 
     int SumOfFactorials(int, int);

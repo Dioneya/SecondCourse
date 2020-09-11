@@ -2,6 +2,7 @@
 #include <cassert>
 #include "Vector.h"
 
+
 using namespace std;
 
 Vector::Vector(int len)
@@ -22,6 +23,17 @@ void Vector::printVector()
         cout << arr[i]<<" ";
     }
     cout << endl;
+}
+
+void Vector::ConvertMatrix(int** matrix, int row, int column) 
+{
+    for (int i = 1, k = 0; i < row; i += 2)
+    {
+        for (int j = 0; j < column; j++, k++)
+        {
+            arr[k] = matrix[i][j];
+        }
+    }
 }
 
 int& Vector::operator[] (const int index)

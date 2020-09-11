@@ -1,5 +1,4 @@
 #pragma once
-
 class Vector
 {
 private:
@@ -11,6 +10,7 @@ public:
     ~Vector(); // деструктор
 
     void printVector(); // вывод массива
+    void ConvertMatrix(int**, int, int);
 
     int& operator[] (const int); // перегрузка []
 

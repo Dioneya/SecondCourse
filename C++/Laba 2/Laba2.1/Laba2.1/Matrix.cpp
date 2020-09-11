@@ -66,6 +66,11 @@ int Matrix::getRowLenght()
     return row;
 }
 
+int** Matrix::getArr() 
+{
+    return arr;
+}
+
 void Matrix::printMatrix() 
 {
     for (int i = 0; i < row; i++)

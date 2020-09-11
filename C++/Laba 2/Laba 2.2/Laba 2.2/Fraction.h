@@ -29,4 +29,6 @@ public:
     Fraction operator*(Fraction mult); // перегрузка *
 
     Fraction operator/(Fraction divisor); // перегрузка /
+
+    friend std::ostream& operator<<(std::ostream& cout, Fraction& fraction);
 };

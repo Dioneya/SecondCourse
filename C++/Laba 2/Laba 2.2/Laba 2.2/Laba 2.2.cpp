@@ -16,5 +16,6 @@ int main()
     Fraction dif = first - second;
     sum.reduce();
 
-    printf("%d", Fraction::count);
+    cout << first;
+    cout << Fraction::count << endl;
 }

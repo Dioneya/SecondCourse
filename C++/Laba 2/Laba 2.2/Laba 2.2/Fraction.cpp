@@ -98,3 +98,9 @@ Fraction Fraction::operator/(Fraction divisor)
     Fraction quotient(quotient_numer, quotient_denomin);
     return quotient;
 }
+
+std::ostream& operator<<(std::ostream& out, Fraction& fraction) 
+{
+    out << fraction.numerator << "/" <<fraction.denominator << "\n";
+    return out;
+}
