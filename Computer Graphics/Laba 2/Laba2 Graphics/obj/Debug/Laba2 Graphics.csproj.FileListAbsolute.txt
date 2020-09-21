@@ -1,0 +1,10 @@
+C:\Users\nikit\source\repos\Laba2 Graphics\Laba2 Graphics\obj\Debug\Laba2 Graphics.csprojAssemblyReference.cache
+C:\Users\nikit\source\repos\Laba2 Graphics\Laba2 Graphics\obj\Debug\Laba2_Graphics.Form1.resources
+C:\Users\nikit\source\repos\Laba2 Graphics\Laba2 Graphics\obj\Debug\Laba2_Graphics.Properties.Resources.resources
+C:\Users\nikit\source\repos\Laba2 Graphics\Laba2 Graphics\obj\Debug\Laba2 Graphics.csproj.GenerateResource.cache
+C:\Users\nikit\source\repos\Laba2 Graphics\Laba2 Graphics\obj\Debug\Laba2 Graphics.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\repos\Laba2 Graphics\Laba2 Graphics\bin\Debug\Laba2 Graphics.exe.config
+C:\Users\nikit\source\repos\Laba2 Graphics\Laba2 Graphics\bin\Debug\Laba2 Graphics.exe
+C:\Users\nikit\source\repos\Laba2 Graphics\Laba2 Graphics\bin\Debug\Laba2 Graphics.pdb
+C:\Users\nikit\source\repos\Laba2 Graphics\Laba2 Graphics\obj\Debug\Laba2 Graphics.exe
+C:\Users\nikit\source\repos\Laba2 Graphics\Laba2 Graphics\obj\Debug\Laba2 Graphics.pdb
