@@ -1,0 +1,9 @@
+﻿  CustomExpressionEvaluator.cpp
+  ExpressionEvaluator.cpp
+C:\Users\nikit\source\repos\Laba3.1\Laba3.1\ExpressionEvaluator.cpp(27,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nikit\source\repos\Laba3.1\Laba3.1\ExpressionEvaluator.cpp(28,15): warning C4018: <=: несоответствие типов со знаком и без знака
+  Laba3.1.cpp
+  Subtractor.cpp
+  Summator.cpp
+  Создание кода...
+  Laba3.1.vcxproj -> C:\Users\nikit\source\repos\Laba3.1\Debug\Laba3.1.exe

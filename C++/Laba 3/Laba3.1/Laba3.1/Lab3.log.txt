@@ -1,0 +1,240 @@
+Operand1, Operand2, Operand3, Operand4, 
+10.500000 minus 2.500000 minus (-3.000000 )  minus 1.500000
+Result = 9.5
+
+Operand1, Operand2, Operand3, Operand4, Operand5, Operand6, 
+( 5.000000 plus 5.000000 ) divise by 2  plus (-8.000000 )  plus 1.000000 plus 2.000000 plus 3.000000
+Result = 2.5
+
+Operand1, Operand2, Operand3, 
+1.500000 plus  ( -4.000000 ) plus 2.500000
+Result = 0
+
+Operand1, Operand2, Operand3, Operand4, 
+10.500000 minus 2.500000 minus (-3.000000 )  minus 1.500000
+Result = 9.5
+
+Operand1, Operand2, Operand3, Operand4, Operand5, Operand6, 
+( 5.000000 plus 5.000000 ) divise by 2  plus (-8.000000 )  plus 1.000000 plus 2.000000 plus 3.000000
+Result = 2.5
+
+Operand1, Operand2, Operand3, 
+1.500000 plus  ( -4.000000 ) plus 2.500000
+Result = 0
+
+Operand1, Operand2, Operand3, Operand4, 
+10.500000 minus 2.500000 minus (-3.000000 )  minus 1.500000
+Result = 9.5
+
+Operand1, Operand2, Operand3, Operand4, Operand5, Operand6, 
+( 5.000000 plus 15.000000 ) divise by 2  plus (-8.000000 )  plus 1.000000 plus 2.000000 plus 3.000000
+Result = 8
+
+Operand1, Operand2, Operand3, 
+1.500000 plus  ( -4.000000 ) plus 2.500000
+Result = 0
+
+Operand1, Operand2, Operand3, Operand4, 
+10.500000 minus 2.500000 minus (-3.000000 )  minus 1.500000
+Result = 9.5
+
+Operand1, Operand2, Operand3, Operand4, Operand5, Operand6, 
+( 5.000000 plus 15.000000 ) divise by 2  plus (-8.000000 )  plus 1.000000 plus 2.000000 plus 3.000000
+Result = 8
+
+Operand1, Operand2, Operand3, 
+1.500000 plus  ( -4.000000 ) plus 2.500000
+Result = 0
+
+Operand1, Operand2, Operand3, Operand4, 
+10.500000 minus 2.500000 minus (-3.000000 )  minus 1.500000
+Result = 9.5
+
+Operand1, Operand2, Operand3, Operand4, Operand5, Operand6, 
+( 5.000000 plus 15.000000 ) divise by 2  plus (-8.000000 )  plus 1.000000 plus 2.000000 plus 3.000000
+Result = 8
+
+Operand1, Operand2, Operand3, 
+1.500000 plus  ( -4.000000 ) plus 2.500000
+Result = 0
+
+Operand1, Operand2, Operand3, Operand4, 
+10.500000 minus 2.500000 minus (-3.000000 )  minus 1.500000
+Result = 9.5
+
+Operand1, Operand2, Operand3, Operand4, Operand5, Operand6, 
+( 5.000000 plus 15.000000 ) divise by 2  plus (-8.000000 )  plus 1.000000 plus 2.000000 plus 3.000000
+Result = 8
+
+Operand1, Operand2, Operand3, 
+1.500000 plus  ( -4.000000 ) plus 2.500000
+Result = 0
+
+Operand1, Operand2, Operand3, Operand4, 
+10.500000 minus 2.500000 minus (-3.000000 )  minus 1.500000
+Result = 9.5
+
+Operand1, Operand2, Operand3, Operand4, Operand5, Operand6, 
+( 5.000000 plus 15.000000 ) divise by 2  plus (-8.000000 )  plus 1.000000 plus 2.000000 plus 3.000000
+Result = 8
+
+Operand1, Operand2, Operand3, 
+1.500000 plus  ( -4.000000 ) plus 2.500000
+Result = 0
+
+Operand1, Operand2, Operand3, Operand4, 
+10.500000 minus 2.500000 minus (-3.000000 )  minus 1.500000
+Result = 9.5
+
+Operand1, Operand2, Operand3, Operand4, Operand5, Operand6, 
+( 5.000000 plus 15.000000 ) divise by 2  plus (-8.000000 )  plus 1.000000 plus 2.000000 plus 3.000000
+Result = 8
+
+Operand1, Operand2, Operand3, 
+1.500000 plus  ( -4.000000 ) plus 2.500000
+Result = 0
+
+Operand1, Operand2, Operand3, Operand4, 
+10.500000 minus 2.500000 minus (-3.000000 )  minus 1.500000
+Result = 9.5
+
+Operand1, Operand2, Operand3, Operand4, Operand5, Operand6, 
+( 5.000000 plus 15.000000 ) divise by 2  plus (-8.000000 )  plus 1.000000 plus 2.000000 plus 3.000000
+Result = 8
+
+Operand1, Operand2, Operand3, 
+1.500000 plus  ( -4.000000 ) plus 2.500000
+Result = 0
+
+Operand1, Operand2, Operand3, Operand4, 
+10.500000 minus 2.500000 minus (-3.000000 )  minus 1.500000
+Result = 9.5
+
+Operand1, Operand2, Operand3, Operand4, Operand5, Operand6, 
+( 5.000000 plus 15.000000 ) divise by 2  plus (-8.000000 )  plus 1.000000 plus 2.000000 plus 3.000000
+Result = 8
+
+Operand1, Operand2, Operand3, 
+1.500000 plus  ( -4.000000 ) plus 2.500000
+Result = 0
+
+Operand1, Operand2, Operand3, Operand4, 
+10.500000 minus 2.500000 minus (-3.000000 )  minus 1.500000
+Result = 9.5
+
+Operand1, Operand2, Operand3, Operand4, Operand5, Operand6, 
+( 5.000000 plus 15.000000 ) divise by 2  plus (-8.000000 )  plus 1.000000 plus 2.000000 plus 3.000000
+Result = 8
+
+Operand1, Operand2, Operand3, 
+1.500000 plus  ( -4.000000 ) plus 2.500000
+Result = 0
+
+Operand1, Operand2, Operand3, Operand4, 
+10.500000 minus 2.500000 minus (-3.000000 )  minus 1.500000
+Result = 9.5
+
+Operand1, Operand2, Operand3, Operand4, Operand5, Operand6, 
+( 5.000000 plus 15.000000 ) divise by 2  plus (-8.000000 )  plus 1.000000 plus 2.000000 plus 3.000000
+Result = 8
+
+Operand1, Operand2, Operand3, 
+1.500000 plus  ( -4.000000 ) plus 2.500000
+Result = 0
+
+Operand1, Operand2, Operand3, Operand4, 
+10.500000 minus 2.500000 minus (-3.000000 )  minus 1.500000
+Result = 9.5
+
+Operand1, Operand2, Operand3, Operand4, Operand5, Operand6, 
+( 5.000000 plus 15.000000 ) divise by 2  plus (-8.000000 )  plus 1.000000 plus 2.000000 plus 3.000000
+Result = 8
+
+Operand1, Operand2, Operand3, 
+1.500000 plus  ( -4.000000 ) plus 2.500000
+Result = 0
+
+Operand1, Operand2, Operand3, Operand4, 
+10.500000 minus 2.500000 minus (-3.000000 )  minus 1.500000
+Result = 9.5
+
+Operand1, Operand2, Operand3, Operand4, Operand5, Operand6, 
+( 5.000000 plus 15.000000 ) divise by 2  plus (-8.000000 )  plus 1.000000 plus 2.000000 plus 3.000000
+Result = 8
+
+Operand1, Operand2, Operand3, 
+1.500000 plus  ( -4.000000 ) plus 2.500000
+Result = 0
+
+Operand1, Operand2, Operand3, Operand4, 
+10.500000 minus 2.500000 minus (-3.000000 )  minus 1.500000
+Result = 9.5
+
+Operand1, Operand2, Operand3, Operand4, Operand5, Operand6, 
+( 5.000000 plus 15.000000 ) divise by 2  plus (-8.000000 )  plus 1.000000 plus 2.000000 plus 3.000000
+Result = 8
+
+Operand1, Operand2, Operand3, 
+1.500000 plus  ( -4.000000 ) plus 2.500000
+Result = 0
+
+Operand1, Operand2, Operand3, Operand4, 
+10.500000 minus 2.500000 minus (-3.000000 )  minus 1.500000
+Result = 9.5
+
+Operand1, Operand2, Operand3, Operand4, Operand5, Operand6, 
+( 5.000000 plus 15.000000 ) divise by 2  plus (-8.000000 )  plus 1.000000 plus 2.000000 plus 3.000000
+Result = 8
+
+Operand1, Operand2, Operand3, 
+1.500000 plus  ( -4.000000 ) plus 2.500000
+Result = 0
+
+Operand1, Operand2, Operand3, Operand4, 
+10.500000 minus 2.500000 minus (-3.000000 )  minus 1.500000
+Result = 9.5
+
+Operand1, Operand2, Operand3, Operand4, Operand5, Operand6, 
+( 5.000000 plus 15.000000 ) divise by 2  plus (-8.000000 )  plus 1.000000 plus 2.000000 plus 3.000000
+Result = 8
+
+Operand1, Operand2, Operand3, 
+1.500000 plus  ( -4.000000 ) plus 2.500000
+Result = 0
+
+Operand1, Operand2, Operand3, Operand4, 
+10.500000 minus 2.500000 minus (-3.000000 )  minus 1.500000
+Result = 9.5
+
+Operand1, Operand2, Operand3, Operand4, Operand5, Operand6, 
+( 5.000000 plus 15.000000 ) divise by 2  plus (-8.000000 )  plus 1.000000 plus 2.000000 plus 3.000000
+Result = 8
+
+Operand1, Operand2, Operand3, 
+1.500000 plus  ( -4.000000 ) plus 2.500000
+Result = 0
+
+Operand1, Operand2, Operand3, Operand4, 
+10.500000 minus 2.500000 minus (-3.000000 )  minus 1.500000
+Result = 9.5
+
+Operand1, Operand2, Operand3, Operand4, Operand5, Operand6, 
+( 5.000000 plus 15.000000 ) divise by 2  plus (-8.000000 )  plus 1.000000 plus 2.000000 plus 3.000000
+Result = 8
+
+Operand1, Operand2, Operand3, 
+1.500000 plus  ( -4.000000 ) plus 2.500000
+Result = 0
+
+Operand1, Operand2, Operand3, Operand4, 
+10.500000 minus 2.500000 minus (-3.000000 )  minus 1.500000
+Result = 9.5
+
+Operand1, Operand2, Operand3, Operand4, Operand5, Operand6, 
+( 5.000000 plus 15.000000 ) divise by 2  plus (-8.000000 )  plus 1.000000 plus 2.000000 plus 3.000000
+Result = 8
+
+Operand1, Operand2, Operand3, 
+1.500000 plus  ( -4.000000 ) plus 2.500000
+Result = 0
+
