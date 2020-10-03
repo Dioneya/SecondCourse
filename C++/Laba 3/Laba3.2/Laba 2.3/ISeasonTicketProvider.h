@@ -2,5 +2,5 @@
 class ISeasonTicketProvider 
 {
 public:
-	virtual void ticket() {};
+	virtual void ticket()=0;
 };
