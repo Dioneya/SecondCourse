@@ -2,19 +2,12 @@
 //
 #include <iostream>
 #include "Deck.h"
-#include <io.h>
-#include <fcntl.h>
+#include "Game.h"
+#include <locale.h>
 int main()
 {
-
-    setlocale(LC_ALL, "rus");
-    setlocale(LC_ALL, ".866");
-
-    std::cout << "Hello World!\n";
-    Deck deck;
-    Card card = deck.take_card();
-    std::cout << card;
-    //deck.print_Deck();
+    setlocale(LC_ALL, "");
+    Game game;
 }
 
 

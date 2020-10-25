@@ -1,0 +1,10 @@
+C:\Users\nikit\source\repos\Laba3Inform\Laba3Inform\obj\Debug\Laba3Inform.csprojAssemblyReference.cache
+C:\Users\nikit\source\repos\Laba3Inform\Laba3Inform\obj\Debug\Laba3Inform.Form1.resources
+C:\Users\nikit\source\repos\Laba3Inform\Laba3Inform\obj\Debug\Laba3Inform.Properties.Resources.resources
+C:\Users\nikit\source\repos\Laba3Inform\Laba3Inform\obj\Debug\Laba3Inform.csproj.GenerateResource.cache
+C:\Users\nikit\source\repos\Laba3Inform\Laba3Inform\obj\Debug\Laba3Inform.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\repos\Laba3Inform\Laba3Inform\bin\Debug\Laba3Inform.exe.config
+C:\Users\nikit\source\repos\Laba3Inform\Laba3Inform\bin\Debug\Laba3Inform.exe
+C:\Users\nikit\source\repos\Laba3Inform\Laba3Inform\bin\Debug\Laba3Inform.pdb
+C:\Users\nikit\source\repos\Laba3Inform\Laba3Inform\obj\Debug\Laba3Inform.exe
+C:\Users\nikit\source\repos\Laba3Inform\Laba3Inform\obj\Debug\Laba3Inform.pdb

@@ -20,9 +20,10 @@ Deck::Deck()
 
 void Deck::Shuffle() 
 {
+	srand(time(0));
 	auto rng = std::default_random_engine{};
 	std::random_device();
-	std::shuffle(std::begin(deck), std::end(deck), rng);
+	std::random_shuffle(std::begin(deck), std::end(deck));
 }
 
 void Deck::print_Deck()
